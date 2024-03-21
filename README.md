@@ -1,5 +1,5 @@
 # WeatherWidget
-It aims to show the weather of searched city. It display temperature , humidity, maximum and minimum temperature , and how weather feelslike .
+It aims to show the current weather informmation of searched city. It display information of weather like  temperature , humidity, maximum and minimum temperature , and how weather feelslike .
 # Tehnology Uses : 
 ReactJs , API
 # How to run :
